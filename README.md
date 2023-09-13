@@ -1,2 +1,2 @@
 # reshade-shaders-lw
-Reshade shaders for Lutris Wine
+Reshade shaders for Lux Wine

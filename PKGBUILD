@@ -2,7 +2,7 @@
 pkgname='reshade-shaders-lw'
 pkgver='0.1'
 pkgrel='1'
-pkgdesc='Reshade shaders for Lutris Wine'
+pkgdesc='Reshade shaders for Lux Wine'
 arch=('any')
 url='https://github.com/VHSgunzo/reshade-shaders-lw'
 license=('MIT')
